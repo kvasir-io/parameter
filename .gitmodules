@@ -1,0 +1,3 @@
+[submodule "deps/mpl"]
+	path = deps/mpl
+	url = git@github.com:kvasir-io/mpl.git
